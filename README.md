@@ -1,6 +1,6 @@
 # Notes API
 
-API for managing notes.This is an simple api that aims to provide a simple crud api using nodejs,expressjs and postgres sql.
+API for managing notes.This is an simple api that aims to provide a simple crud api using nodejs,expressjs and postgres sql
 
 ## Table of Contents
 
